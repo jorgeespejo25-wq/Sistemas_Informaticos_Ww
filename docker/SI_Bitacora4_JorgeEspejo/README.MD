@@ -15,3 +15,4 @@ Captura de la conexión SSH sin contraseña.
 ## Errores 
 En la parte del paso A al poner el comando *ssh alumno@127.0.0.1 -p 2222*, me sale el siguiente error
 ![texto alternativo](imagenes/pasoA_error.png)
+Se soluciona poniendo la ip del dispositivo (127.0.0.1) en vez de localhost
